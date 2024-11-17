@@ -15,6 +15,3 @@
 | **Mensageria**    | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white) |
 | **Testes**        | ![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white)  ![Mockito](https://img.shields.io/badge/-Mockito-8B6AD9?logo=mockito&logoColor=white) |
 | **Docker**        | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  |
-
-
-         
