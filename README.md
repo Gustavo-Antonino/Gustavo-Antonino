@@ -23,11 +23,4 @@ Sou um **desenvolvedor Backend iniciante** com foco em construir APIs robustas e
 
 ---
 
-## 📫 Como me encontrar
-
-- **LinkedIn**: [Seu LinkedIn aqui](#)
-- **E-mail**: [seuemail@example.com](mailto:seuemail@example.com)
-
-Fique à vontade para explorar meus repositórios e acompanhar minha jornada como desenvolvedor!
-
          
