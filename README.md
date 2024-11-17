@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo+ao+meu+GitHub!;Eu+sou+Gustavo,+desenvolvedor+Backend+💻;Focado+em+soluções+robustas+e+escaláveis+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo+ao+meu+GitHub!;Eu+sou+Gustavo,+desenvolvedor+Backend+💻;](https://git.io/typing-svg)
 
 ---
 
