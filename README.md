@@ -1,6 +1,6 @@
 ## 👨‍💻 Sobre mim
 
-**Desenvolvedor Backend** com foco nos ecossistemas **Java** e **Golang**, trabalhando na construção de APIs e Microserviços. Aproveitando o melhor de cada stack para entregar soluções de melhor impacto.
+**Desenvolvedor Backend** com foco nos ecossistemas **Java** e **Golang**, trabalhando no desenvolvimento de APIs e Microserviços. Aproveitando o melhor de cada stack para entregar soluções de melhor impacto.
 
 | **Tecnologia** | **Ferramentas**                                                                                 |
 |----------------|-------------------------------------------------------------------------------------------------|
