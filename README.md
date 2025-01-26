@@ -1,4 +1,4 @@
-## 👨‍💻 Sobre mim
+## 👨‍💻 Gustavo Antonino
 
 **Desenvolvedor Backend** com foco nos ecossistemas **Java** e **Golang**, trabalhando no desenvolvimento de APIs e Microserviços. Aproveitando o melhor de cada stack para entregar soluções de melhor impacto.
 
