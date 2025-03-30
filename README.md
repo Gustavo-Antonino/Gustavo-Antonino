@@ -6,7 +6,7 @@ Analista de Dados com experiência em modelagem, processamento e análise de dad
 
 | Backend | Análise de Dados |
 |---------|-----------------|
-| Java | SQL (SQL Server, PostgreSQL, Oracle) |
+| Java | SQL (SQL Server, PostgreSQL) |
 | POO | ETL (SSIS, PDI/Pentaho)|
 | APIs REST | Power BI  | 
 | Spring | Tableau |
