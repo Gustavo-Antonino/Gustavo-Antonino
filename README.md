@@ -6,10 +6,11 @@ Analista de Dados com experiência em modelagem, processamento e análise de dad
 
 | Backend | Análise de Dados |
 |---------|-----------------|
-| Java | SQL Server |
-| POO | Power BI |
-| APIs REST | ETL (SSIS, SSAS, PDI/Pentaho) |
-| Spring | Data Warehouse (DW) |
-| Docker |  |
-| JUnit |  |
+| Java | SQL (SQL Server, PostgreSQL, Oracle) |
+| POO | ETL (SSIS, PDI/Pentaho)|
+| APIs REST | Power BI  | 
+| Spring | Tableau |
+| Docker | Data Warehouse (DW) |
+| JUnit | DAX (SSAS - Tabular Models) |
+
 
